@@ -50,7 +50,7 @@
 
 {"key":"csp_热播","name":"🅱️热播之家|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/热播之家.json"},
 
-{"key":"csp_三七","name":"🅱️三七影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/三七影视.json"},
+{"key":"csp_觅知","name":"🅱️觅知影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/觅知影视.json"},
 
 {"key":"csp_玖摇","name":"🅱️玖摇影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/91影视.json"},
 
