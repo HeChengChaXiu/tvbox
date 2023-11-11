@@ -14,6 +14,8 @@
 
 {"key":"Wogg","name":"🅱️玩偶哥哥|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/玩偶哥哥.json"},
 
+{"key":"csp_日后","name":"🅱️日后影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/日后影视.json"},
+
 //{"key":"Czspp","name":"🅱️厂长影视|T追剧","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy88.com/"},
 
 //{"key": "yc","name": "🅱️影巢网盘|T追剧","type": 3,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
@@ -50,8 +52,6 @@
 
 {"key":"csp_热播","name":"🅱️热播之家|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/热播之家.json"},
 
-{"key":"csp_花花","name":"🅱️花花影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/花花影视.json"},
-
 {"key":"csp_玖摇","name":"🅱️玖摇影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/91影视.json"},
 
 {"key":"csp_不卡","name":"🅱️不卡影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/真不卡影视.json"},
@@ -70,7 +70,7 @@
 
 {"key":"csp_七月","name":"🅱️七月影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/七月影视.json"},
 
-{"key":"csp_日后","name":"🅱️日后影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/348影视.json"},
+{"key":"csp_佳能","name":"🅱️佳能影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/348影视.json"},
 
 {"key":"csp_土豪","name":"🅱️土豪影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/土豪影视.json"},
 
