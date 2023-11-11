@@ -14,9 +14,7 @@
 
 {"key":"Wogg","name":"🅱️玩偶哥哥|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/玩偶哥哥.json"},
 
-{"key":"csp_日后","name":"🅱️日后影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/日后影视.json"},
-
-//{"key":"Czspp","name":"🅱️厂长影视|T追剧","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy88.com/"},
+{"key":"Czspp","name":"🅱️厂长影视|T追剧","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy88.com/"},
 
 //{"key": "yc","name": "🅱️影巢网盘|T追剧","type": 3,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
 
