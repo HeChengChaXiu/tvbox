@@ -18,11 +18,11 @@
 
 //{"key": "yc","name": "🅱️影巢网盘|T追剧","type": 3,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
 
-{"key":"csp_小鹿","name":"🅱️小鹿影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/小鹿影视.json"},
-
 {"key":"csp_骚火","name":"🅱️骚火影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/骚火影视.json"},
 
 //{"key":"csp_美剧","name":"🅱️美剧影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/美剧影视.json"},
+
+{"key":"csp_威士","name":"🅱️威士影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/威士影视.json"},
 
 {"key":"csp_Free","name":"🅱️Free影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/Free影视.json"},
 
