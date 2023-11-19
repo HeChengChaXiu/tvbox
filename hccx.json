@@ -72,7 +72,7 @@
 
 {"key":"csp_土豪","name":"🅱️土豪影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/土豪影视.json"},
 
-{"key":"csp_兔年","name":"🅱️兔年影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/YYDS影视.json"},
+{"key":"csp_觅知","name":"🅱️觅知影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/觅知影视.json"},
 
 {"key":"csp_达龟","name":"🅱️达龟影院|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/达达龟影视.json"},
 
